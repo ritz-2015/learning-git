@@ -8,3 +8,7 @@ function func(){
 function above(){
     return age>=18;
 }
+
+function newBranch1(){
+    console.log("Branch1");
+}
