@@ -6,5 +6,5 @@ function func(){
 }
 
 function above(){
-    return age>=12;
+    return age>=18;
 }
