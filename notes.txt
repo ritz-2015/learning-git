@@ -1,0 +1,19 @@
+**IN CMD
+=> cd \Users\SAEE\OneDrive\Desktop\Ritama_Nodejs\Git: here all git related documents stored
+
+=> code .: opens VS Code
+
+**IN VSCODE:
+1. git init: to initialize git for that folder(git enabled/initialized)
+
+2. git add <file name>: so that file can be tracked
+
+3. git diff: gives the statement that are added or removed from the program
+
+4. git add . : adds all the file in the directory to be tracked
+
+5. git rm <file name>: remove file to not be tracked
+
+6. git commit -m "<message>": to show/track that change has been done
+
+7. git log: shows all the commit done 
