@@ -10,10 +10,16 @@
 
 3. git diff: gives the statement that are added or removed from the program
 
-4. git add . : adds all the file in the directory to be tracked
+4. git add . : adds all the file in the directory to be tracked(after any change in file need to do this)
 
 5. git rm <file name>: remove file to not be tracked
 
 6. git commit -m "<message>": to show/track that change has been done
 
 7. git log: shows all the commit done 
+
+8. git blame <file name>: shows line by line who made the changes in the file
+
+9. git status: gives status of file
+
+10. git log --oneline: shows all the commit in short
