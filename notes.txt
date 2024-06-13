@@ -23,3 +23,5 @@
 9. git status: gives status of file
 
 10. git log --oneline: shows all the commit in short
+
+11. git show <id>: shows log of taht commit only
