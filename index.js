@@ -11,4 +11,5 @@ function above(){
 
 function newBranch1(){
     console.log("Branch1");
+    console.log("Branch1 again");
 }
