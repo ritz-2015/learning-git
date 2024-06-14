@@ -3,3 +3,5 @@ function hello1(){
 }
 
 console.log("For stashing")
+
+const name="Stash";
