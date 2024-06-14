@@ -18,3 +18,8 @@ function newBranch2(){
     console.log("Branch2");
     console.log("Branch2 again");
 }
+
+function newBranch3(){
+    console.log("Branch3");
+    console.log("Branch3 again");
+}
